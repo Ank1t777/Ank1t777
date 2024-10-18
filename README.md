@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A passionate fullstack developerper from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ank1t777" alt="ank1t777" /></a> </p>
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/ankitku25670403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitku25670403" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ankit_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ankit_777" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@pwnified1736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pwnified1736" height="30" width="40" /></a>
+<a href="www.youtube.com/@pwnified1736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pwnified1736" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/3xp10it_777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="3xp10it_777/" height="30" width="40" /></a>
 </p>
 
