@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ank1t777" alt="ank1t777" /></a> </p>
 
-- 🔭 I’m currently working on **Job portal app**
+- 🔭 I’m currently working on **DevFlow application similar to stack overflow but a better version of it**
 
 - 🌱 I’m currently learning **NextJs**
 
