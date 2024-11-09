@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952qmfdjpisrjlmce8wu6mpm7x7orty2z7gdx8lcnyv&ep=v1_gifs_search&rid=200w.gif&ct=g" />
+<img align="center" alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952qmfdjpisrjlmce8wu6mpm7x7orty2z7gdx8lcnyv&ep=v1_gifs_search&rid=200w.gif&ct=g" />
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
